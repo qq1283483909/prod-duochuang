@@ -1,0 +1,45 @@
+{
+  "domestic": [{
+      "name": "携程",
+      "imgUrl": "../../assets/image/携程.png"
+    },
+    {
+      "name": "滴滴出行",
+      "imgUrl": "../../assets/image/滴滴出行.png"
+    }
+  ],
+  "video": [{
+      "name": "爱奇艺",
+      "imgUrl": "../../assets/image/爱奇艺.png"
+    },
+    {
+      "name": "腾讯视频",
+      "imgUrl": "../../assets/image/腾讯视频.png"
+    },
+    {
+      "name": "优酷",
+      "imgUrl": "../../assets/image/优酷.png"
+    }
+  ],
+  "audio": [{
+      "name": "凯叔讲故事",
+      "imgUrl": "../../assets/image/凯叔讲故事.png"
+    },
+    {
+      "name": "樊登读书",
+      "imgUrl": "../../assets/image/樊登读书.png"
+    },
+    {
+      "name": "QQ音乐",
+      "imgUrl": "../../assets/image/QQ音乐.png"
+    }
+  ],
+  "catering": [{
+    "name": "星巴克",
+    "imgUrl": "../../assets/image/星巴克.png"
+  }],
+  "shopping": [{
+    "name": "沃尔玛",
+    "imgUrl": "../../assets/image/沃尔玛.png"
+  }]
+}
